@@ -1,3 +1,4 @@
+#TERRAFORM_COMMAND_BASICS
 # Terraform Settings Block
 terraform {
   required_version = ">= 1.0.0"
